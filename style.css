@@ -136,4 +136,6 @@ nav .circle{
 .cool {
     background-color: pink;
     padding: 0 5px; /* Add some padding to the pink background */
+    border-radius: 20%;
 }
+
