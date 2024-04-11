@@ -60,6 +60,13 @@ let songs = [
         image: "dilijeet.jpeg",
         path: "Diljit_Dosanjh_Raat_Di_Gedi_Full_Audio_Neeru_Bajwa_Jatinder_Shah.mp3"
     }
+    ,
+    {
+        title: "kabhi na kabhi",
+        artist: "Aditya Narayan",
+        image: "priyanshu.jpeg",
+        path: "PlayCool\Kabhi_Na_Kabhi_Full_Song_Shaapit_Aditya_NarayanMP3_160K.mp3"
+    }
 ];
 
 let currentSongIndex = 0;
