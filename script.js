@@ -68,7 +68,131 @@ let songs = [
         artist: "Aditya Narayan",
         image: "media/priyanshu.jpeg",
         path: "media/Kabhi_Na_Kabhi_Full_Song_Shaapit_Aditya_NarayanMP3_160K.mp3"
+    },
+    {
+        title: "Ankhon Mein Teri",
+        artist: "KK",
+        image: "media/Shardeep.avif",
+        path: "media/Aankhon_Mein_Teri_Ajab_Si_Lyrical_Om_Shanti_Om_K_K_Shahrukh_Khan.mp3"
+    },
+    {
+        title: "Say to Yes to the Dress",
+        artist: "Baadshah",
+        image: "media/sajnaterliye.jpg",
+        path: "media/Badshah_Sajna_Say_Yes_To_The_Dress_Official_Video_Payal_DevMP3_160K.mp3"
+    },
+    {
+        title: "Satranga",
+        artist: "kk",
+        image: "media/satranga.webp",
+        path: "media/What_if_SATRANGA_was_KK_s_song_4th_White_Fauzan_Raees_AI_CoverMP3.mp3"
+    },
+    {
+        title: "Teri Jhuki Nazar",
+        artist: "Shafqat Amanat Ali, Pritam Chakraborty",
+        image: "media/terijhuki.jpg",
+        path: "media/teri jhuki nazar song lyrics shafqat Amanat Ali(MP3_160K).mp3"
     }
+    ,
+    {
+        title: "Tera Fitoor",
+        artist: "Arijit Singh",
+        image: "media/tereafitto.jpg",
+        path: "media/Tera_Fitoor_Lyrical_Genius_Utkarsh_Sharma_Ishita_Chauhan_Arijit.mp3"
+    }
+    ,
+    {
+        title: "Sawariyan",
+        artist: "Astha Gill",
+        image: "media/sawariya.jpg",
+        path: "media/Saawariya_Dance_Cover_Aastha_Gill_Sonal_Devraj_shortsMP3_160K.mp3"
+    }
+    ,
+    {
+        title: "Night Changes X Shayad",
+        artist: "One Direction X Arijit Singh",
+        image: "media/shayadNi.jpg",
+        path: "media/Night_Changes_x_Shayad_slowed_reverb_Tiktok_VersionMP3_160K.mp3"
+    }
+    ,
+    {
+        title: "Bloody Mary",
+        artist: "Lady Gaga",
+        image: "media/batman.jpeg",
+        path: "media/Lady Gaga - Bloody Mary (Official Audio)(MP3_160K).mp3"
+    }
+    ,
+    {
+        title: "Derniere Danse",
+        artist: "Indila",
+        image: "media/indilim.jpeg",
+        path: "media/Indila - Dernière Danse (Clip Officiel)(MP3_320K).mp3"
+    }
+    ,
+    {
+        title: "Har funn Maula",
+        artist: "Vishal",
+        image: "media/gojopink.jpg",
+        path: "media/Har_Funn_Maula_Video_Song_Koi_Jaane_Na_Aamir_Khan_Elli_A_Vishal.mp3"
+    }
+    ,
+    {
+        title: "Animal",
+        artist: "Maroon 5",
+        image: "media/maroonanima.jpg",
+        path: "media/Glass_Animals_Heat_Waves_Slowed_TikTokLyrics_sometimes_all_i_think.mp3"
+    }
+    ,
+    {
+        title: "Khairiyat",
+        artist: "Arijit Singh",
+        image: "media/khariyat.jpg",
+        path: "media/Full_Song_KHAIRIYAT_BONUS_TRACK_CHHICHHORE_Sushant_Shraddha_Pritam.mp3"
+    }
+    ,
+    {
+        title: "Cupid",
+        artist: "I don't know",
+        image: "media/cupid.jpg",
+        path: "media/fifty_fifty_cupid_english_ver_slowed_reverbMP3_160K.mp3"
+    }
+    ,
+    {
+        title: "Rangili Pichodi",
+        artist: " Priyanka Meher",
+        image: "media/pichodi.jpeg",
+        path: "media/dwarahat ko lehenga mero rangili pichodi(MP3_160K).mp3"
+    }
+    ,
+    {
+        title: "California Love",
+        artist: "Gur Sidhu",
+        image: "media/california.jpeg",
+        path: "media/CALIFORNIA_LOVE_Official_Video_Cheema_Y_Gur_Sidhu_New_Punjabi_Song.mp3"
+    }
+    ,
+    {
+        title: "Baawala",
+        artist: "Baadshah",
+        image: "media/baawla.jpg",
+        path: "media/Badshah_Baawla_Uchana_Amit_Ft_Samreen_Kaur_Saga_Music_Music_Video.mp3"
+    }
+    ,
+    {
+        title: "Channa Mereya",
+        artist: "Arijit Singh",
+        image: "media/channamere.jpg",
+        path: "media/Arijit_Singh_Channa_Mereya_lyrics_Ae_Dil_Hai_MushkilMP3_160K.mp3"
+    }
+    ,
+    {
+        title: "Apna Bana le",
+        artist: "Sachin Jigar,Arijit Singh",
+        image: "media/apnaba.jpg",
+        path: "media/Apna_Bana_Le_Bhediya_Varun_Dhawan_Kriti_Sanon_Sachin_Jigar_Arijit.mp3"
+    }
+
+
 ];
 
 let currentSongIndex = 0;
