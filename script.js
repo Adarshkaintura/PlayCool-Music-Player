@@ -65,7 +65,7 @@ let songs = [
         title: "kabhi na kabhi",
         artist: "Aditya Narayan",
         image: "priyanshu.jpeg",
-        path: "PlayCool\Kabhi_Na_Kabhi_Full_Song_Shaapit_Aditya_NarayanMP3_160K.mp3"
+        path: "Kabhi_Na_Kabhi_Full_Song_Shaapit_Aditya_NarayanMP3_160K.mp3"
     }
 ];
 
