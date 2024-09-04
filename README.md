@@ -20,14 +20,6 @@ The project consists of three main files:
 - **style.css**: The styling for the music player.
 - **script.js**: The JavaScript for controlling the music player functionality.
 
-## 🖥️ Screenshots
-
-1. **Music Player Interface**  
-   ![Player Interface](./media/interface.png)
-
-2. **Song Selection**  
-   ![Song Selection](./media/song-selection.png)
-
 ## 🔧 Installation
 
 To run the project locally, follow these steps:
@@ -81,8 +73,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-- **Your Name** - [Your Email](mailto:your-email@example.com)
-- **Project Link**: [https://github.com/your-username/playcool-music-player](https://github.com/your-username/playcool-music-player)
+- **Your Name** - [Your Email](adarshkaintura394@gmail.com)
+- **Project Link**: [https://github.com/Adarshkaintura/playcool-music-player](https://github.com/Adarshkaintura/playcool-music-player)
 
 ---
 
