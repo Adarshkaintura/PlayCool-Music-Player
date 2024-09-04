@@ -73,8 +73,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## 📧 Contact
 
-- **Your Name** - [Adarsh Kaintura](adarshkaintura394@gmail.com)
-- **Project Link**: [https://github.com/Adarshkaintura/playcool-music-player](https://github.com/Adarshkaintura/playcool-music-player)
+- **Your Name** - [Adarsh Kaintura](https://www.linkedin.com/in/adarsh-kaintura-08b096269/)
+- **Project Link**: [Play-Cool](https://github.com/Adarshkaintura/playcool-music-player)
 
 ---
 
